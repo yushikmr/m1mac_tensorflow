@@ -1,0 +1,4 @@
+name: m1mac_tensorflow
+channels:
+  - conda-forge
+prefix: /Users/okamurayuushi/miniforge3/envs/m1mac_tensorflow
